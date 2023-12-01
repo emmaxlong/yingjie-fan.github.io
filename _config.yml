@@ -24,12 +24,12 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
+google_scholar: https://scholar.google.com/citations?user=q0NwsrsAAAAJ&hl=en&oi=ao
 cv_link: 
-github_link: https://github.com/song-chen1/
-linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
+github_link: https://github.com/xinyi-long/
+linkedin: https://www.linkedin.com/in/yingjie-fan-438768205
 twitter: 
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+researchgate: 
 
 # Images 
 avatar: ./assets/img/yingjie.jpeg
@@ -46,15 +46,15 @@ enable_footnote: false
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
+# clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+# # Google Analytics ID
+# # Please remove this if you don't use Google Analytics
+# google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# remote_theme: yaoyao-liu/minimal-light
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
