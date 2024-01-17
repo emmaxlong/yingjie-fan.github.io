@@ -1,33 +1,56 @@
 main:
 
-  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
-    authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/multi.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/multi.txt
-    image: ./assets/files/multi.jpg
-    notes: Published
+  - title: A Substrate-Binding Metal–Organic Layer Selectively Catalyzes Photoredox Ene-
+Carbonyl Reductive Coupling Reactions
+    authors: Yingjie Fan, Eric You, Ziwan Xu, Wenbin Lin * .
+    Journal: Journal of American Chemical Society
+    doi: 10.1021/jacs.1c10180 
+    image: ./assets/files/1.jpg
+    notes: Published
+  - title: Site Isolation in Metal-Organic Layers Enhances Photoredox Gold Catalysis
+    authors: Haifeng Zheng ≠ , Yingjie Fan ≠ , Yang Song, Justin S. Chen, Eric You, Steven
+Labalme, Wenbin Lin * .
+    Journal: Journal of American Chemical Society
+    doi: 10.1021/jacs.2c03062
+    image: ./assets/files/2.jpg
+    notes: Published
+  - title: Biomimetic Active Sites on Monolayered Metal-Organic Frameworks for Artificial
+Photosynthesis
+    authors: Guangxu Lan ≠ , Yingjie Fan ≠ , Wenjie Shi ≠ , Eric You, Samuel S. Veroneau, Wenbin
+Lin * .
+    Journal: Nature Catalysis
+    doi: 10.1038/s41929-022-00865-5
+    image: ./assets/files/3.jpg
+    notes: Published
 
-  - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/admi202270196-gra-0001-m.jpg
-    notes: Published
+  - title: Molecular Engineering of Metal–Organic Layers for Sustainable Tandem and
+Synergistic Photocatalysis
+    authors: Yingjie Fan ≠ , Haifeng Zheng ≠ , Steven Labalme, Wenbin Lin * .
+    Journal: Journal of American Chemical Society
+    doi: 10.1021/jacs.2c12599
+    image: ./assets/files/4.jpg
+    notes: Published
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/flexible.txt
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
-    notes: Published
+  - title: Sequential Modifications of Metal–Organic Layer Nodes for Highly Efficient
+Photocatalyzed Hydrogen Atom Transfer
+    authors: Haifeng Zheng ≠ , Yingjie Fan ≠ , Abigail L. Blenko, Wenbin Lin * .
+    Journal: Journal of American Chemical Society
+    doi: 10.1021/jacs.3c02703
+    image: ./assets/files/5.jpg
+    notes: Published
 
-  
+- title: Enhanced Energy Transfer in A π-Conjugated Covalent Organic Framework
+Facilitates Excited-State Nickel Catalysis
+    authors: Yingjie Fan ≠ , Dong Won Kang ≠ , Steven Labalme, Jinhong Li, Wenbin Lin * .
+    Journal: Angewandte Chemie International Edition
+    doi: 10.1002/anie.202218908?af=R
+    image: ./assets/files/6.jpg
+    notes: Published
+
+- title: A Spirobifluorene-Based Covalent Organic Framework for Dual Photoredox and
+Nickel Catalysis
+    authors: Yingjie Fan ≠ , Dong Won Kang ≠ , Steven Labalme, Wenbin Lin * .
+    Journal: Journal of American Chemical Society
+    doi: 10.1021/jacs.3c09729
+    image: ./assets/files/6.jpg
+    notes: Published
